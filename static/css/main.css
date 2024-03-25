@@ -1,0 +1,38 @@
+body {
+    background-color: #9ed0f0;
+    /* font-family: Arial, sans-serif; */
+}
+
+.main-body{
+    background-color: #ffffff;
+}
+
+/* Estilos para el icono personalizado */
+.custom-icon {
+    font-size: 20px;
+    color: white;
+    background-color: #3c78d8;
+    border-radius: 50%;
+    padding: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 1;
+}
+
+.custom-nav-footer {
+    background-color: #8eafc4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 100%;
+}
+
+.button-container a img {
+    transition: transform 0.3s ease, opacity 0.3s ease; 
+}
+
+.button-container a img:hover {
+    transform: scale(1.1); 
+    opacity: 0.8; 
+}

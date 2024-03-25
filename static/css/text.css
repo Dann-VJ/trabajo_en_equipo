@@ -1,0 +1,54 @@
+/* Nombre de unidad: Nunito Sans black  26px, alineados a la izquierda     Color HEX: #3c78d8 */
+.nombre-unidad {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 26px;
+    font-weight: 900;
+    color: #3c78d8;
+    text-align: left;
+    display: block;
+}
+
+/* Títulos Nunito Sans semibold regular 22px, centrado           Color HEX: #3c78d8 */
+.titulo {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: #3c78d8;
+    text-align: center;
+    display: block;
+}
+
+/* Textos Nunito Sans regular 18px, justificado           Color HEX: #000000 */
+.texto {
+    font-family: 'Nunito Sans', sans-serif; 
+    font-size: 18px;
+    color: #000000;
+    text-align: justify;
+    display: block;
+}
+
+/* Fuente Nunito Sans regular 14px, alineado a la derecha           Color HEX: #000000 */
+.fuente {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 14px;
+    color: #000000;
+    text-align: center;
+}
+
+/* Palabras o textos importantes Nunito Sans bold regular 18px, centrado           Color HEX: #0b5394 */
+.texto-importante {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #0b5394;
+    text-align: center;
+}
+
+/* Intruccion Nunito Sans bold 18px, justificado           Color HEX: #000000 */
+.instruccion {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #000000;
+    text-align: justify;
+}
