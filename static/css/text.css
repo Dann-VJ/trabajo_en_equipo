@@ -28,11 +28,11 @@
 }
 
 /* Fuente Nunito Sans regular 14px, alineado a la derecha           Color HEX: #000000 */
-.fuente {
+.fuente-texto {
     font-family: 'Nunito Sans', sans-serif;
     font-size: 14px;
     color: #000000;
-    text-align: center;
+    text-align: right !important;
 }
 
 /* Palabras o textos importantes Nunito Sans bold regular 18px, centrado           Color HEX: #0b5394 */

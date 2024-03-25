@@ -1,6 +1,5 @@
 body {
     background-color: #9ed0f0;
-    /* font-family: Arial, sans-serif; */
 }
 
 .main-body{
@@ -30,6 +29,9 @@ body {
 
 .button-container a img {
     transition: transform 0.3s ease, opacity 0.3s ease; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: auto;
 }
 
 .button-container a img:hover {
